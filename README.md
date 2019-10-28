@@ -28,3 +28,4 @@ Here is a simple list of all the SaaS Code template I know. hope it helps
 
 ## Discussion/Review
 * [Is there a SaaS template? - Indie Hackers](https://www.indiehackers.com/forum/is-there-a-saas-template-d1d90b8416)
+* [Recommendation on a SaaS boilerplate project? - Indie Hackers](https://www.indiehackers.com/forum/recommendation-on-a-saas-boilerplate-project-8a1ebd14f8)
