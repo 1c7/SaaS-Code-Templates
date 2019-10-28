@@ -22,3 +22,6 @@ Here is a simple list of all the SaaS Code template I know. hope it helps
 
 ## Book
 * [Build A SaaS App in Ruby on Rails 6](https://buildasaasappinrails.com/)
+
+## Discussion/Review
+* [Is there a SaaS template? - Indie Hackers](https://www.indiehackers.com/forum/is-there-a-saas-template-d1d90b8416)
