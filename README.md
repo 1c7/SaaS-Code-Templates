@@ -5,20 +5,20 @@ Here is a simple list of all the SaaS Code template I know. hope it helps
 * [Sjabloon - $79](https://www.getsjabloon.com/)
 * [RailsKits - $249](https://railskits.com/)
 * [BulletTrain - $1450](https://bullettrain.co/)
-* [Kiso - $9/mo,$39/mo,$99/mo](https://kiso.io/)
+* [Kiso - $9,$39,$99](https://kiso.io/)
 * [Limestone Accounts - Free](https://github.com/archonic/limestone-accounts)
 * [Jumpstart - $149,$449](https://jumpstartrails.com)
 * [Duplex - $39](https://www.hash32.com/products/duplex)
 
 ## Javascript
-* [Pup - Free](https://cleverbeagle.com/pup)
-* [Gravity(Node.js & React.js) - $97,$497,$997](https://usegravity.app/)
+* [Pup (Meteor.js / React.js) - Free](https://cleverbeagle.com/pup)
+* [Gravity (Node.js / React.js) - $97,$497,$997](https://usegravity.app/)
 
 ## Python
-* [SaaS Pegasus(Django) - $195](https://www.saaspegasus.com)
+* [SaaS Pegasus (Django) - $195](https://www.saaspegasus.com)
 
 ## PHP
-* [Spark(Laravel) - $99,$299](https://spark.laravel.com/)
+* [Spark (Laravel) - $99,$299](https://spark.laravel.com/)
 
 ## Book
 * [Build A SaaS App in Ruby on Rails 6](https://buildasaasappinrails.com/)
